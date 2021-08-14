@@ -8,7 +8,7 @@ driver = Safari()
 print("open DMV scheduling website")
 driver.get("https://www.dmv.virginia.gov/onlineservices/appointments.aspx")
 
-print("maximze window")
+print("maximize window")
 driver.maximize_window()
 
 print("find form element")
